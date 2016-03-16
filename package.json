@@ -1,6 +1,6 @@
 {
   "name": "browserify-shimify",
-  "version": "0.0.0",
+  "version": "0.1.0-0",
   "description": "A very simple shim transform for browseify",
   "main": "index.js",
   "dependencies": {
